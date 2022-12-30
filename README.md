@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá Sou Laiza - Backend 👋
 
 <!--
 **laizamicheli/laizamicheli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-  <a href="https://github.com/laizamicheli%22%3E
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laizamicheli&show_icons=true&theme=dark&include_all_commits=true&count_private=true%22/%3E
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laizamicheli&layout=default&langs_count=7&theme=dark%22/%3E
+  <a href="https://github.com/laizamicheli">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laizamicheli&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laizamicheli&layout=default&langs_count=7&theme=dark">
 </div>
   </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg%22%3E
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg%22%3E
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg%22%3E
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
